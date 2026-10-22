@@ -1,5 +1,12 @@
 # LibreOffice ACP Assist
 
+> **⚠️ This repository has moved.** Development continues in the
+> [`lyx-acp-assist` monorepo](https://github.com/guzmandrade-dev/lyx-acp-assist),
+> where this app lives at
+> [`apps/libreoffice`](https://github.com/guzmandrade-dev/lyx-acp-assist/tree/main/apps/libreoffice)
+> with its full git history preserved. This repository is archived and
+> read-only.
+
 A Copilot-for-Office-style AI assistant for [LibreOffice](https://www.libreoffice.org/)
 — a floating companion panel that reads your document, chats, and writes
 **directly into the live LibreOffice document** across **Writer, Calc, and
